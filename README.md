@@ -38,7 +38,9 @@ The EMT-AI Agent is an intelligent web application designed to assist EMTs (Emer
    git clone https://github.com/tusharj03/EMT-AI-Agent.git
    cd EMT-AI-Agent
 2. Install the required Python dependencies
+   ```bash
      pip install -r requirements.txt
-3. Start the backend:
+4. Start the backend
+   ```bash
     uvicorn main:app --reload
 
