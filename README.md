@@ -3,7 +3,12 @@
 ## Overview
 The EMT-AI Agent is an intelligent web application designed to assist EMTs (Emergency Medical Technicians) by automating documentation and administrative tasks during patient care. The app listens to EMT-patient interactions in real-time, processes the audio, and automatically generates structured documentation (e.g., SOAP notes) for each call.
 
-![EMT-AI Agent Image](assets/images/IMG_8932.PNG)
+<p float="left">
+  <img src="assets/images/IMG_8932.PNG" width="200" style="margin-right: 10px" />
+  <img src="assets/images/IMG_8933.PNG" width="200" style="margin-right: 10px" />
+  <img src="assets/images/IMG_8934.PNG" width="200" style="margin-right: 10px" />
+  <img src="assets/images/IMG_8935.PNG" width="200" />
+</p>
 
 ## Features
 - **Audio Recording**: EMTs can start and stop recording their interactions through the web interface. Supports both browser-based recording and file uploads (MP3, OGG, WEBM, FLAC, WAV).
